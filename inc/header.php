@@ -12,7 +12,7 @@ a{color:#3399FF;}
 .subject {border-bottom: 1px solid #3399ff;font-size: 20px;margin-bottom: 10px;padding-bottom: 10px;}
 .subject p{margin:0;}
 
-.insert{color:#06960E;font-weight:bold;}
+.insert{color:#06960E;font-weight:bold;} 
 .delete{color:#DE5A24;font-weight:bold;}
 
 .mainleft{border-right: 1px dotted #999;float: left;margin-right: 16px;width: 350px;}
