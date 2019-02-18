@@ -5,9 +5,8 @@ A simple Project of CRUD operation using PDO(php data object) in OOP style
 
 
 
+### Database name : oop_pdo_crud
 
-Database name : oop_pdo_crud
-
-Table name: student
+### Table name: student
 
 
