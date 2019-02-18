@@ -2,15 +2,15 @@
 
   <footer class="footeroption">
 	  <section class="footerone">
-	  <p>Delowar Jahan Imran</p>
-	  <p>Oracle Certified Professional,</p>
-	  <p>Java SE 6 Programmer</p>
+	  <p>Ahammed Imtiaze</p>
+	  <p>PHP developer</p>
+	  <p>################</p>
 	  
 	  </section>
 	  <section class="footerone">
-		  <p>FB Page: facebook.com/ProDelowar</p>
-		  <p>FB Group: facebook.com/groups/PBPTBD</p>
-		  <p>Web: www.trainingWithLiveProject.com</p>
+		  <p>GitHUB: github.com/Imtiaze</p>
+		  <p>FB : # </p>
+		  <p>Web: #</p>
 	  </section>
   </footer>
 
